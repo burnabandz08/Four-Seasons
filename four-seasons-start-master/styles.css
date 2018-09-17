@@ -1,0 +1,64 @@
+/* Style Sheet for Four Seasons Example */
+
+html {
+    background-color: #990100 ; 
+}
+
+body{
+    background-color: #ffffff;
+    width: 800px; 
+    margin: 0 auto ; 
+    padding: 10px 77px 60px ;
+
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 52px; 
+    text-align: center; 
+}
+
+p,ul {
+    font-family: helvetica; 
+    letter-spacing: 0.5px ;
+    line height: 22px ;
+}
+
+.refrence{
+    font-size: 12px;
+    font-style: italic;
+    text-align: center; 
+
+}
+
+audio{
+    vertical-align: middle; 
+}
+
+/* Link Styles */
+a{
+    color: #990100;
+    font-weight: bold; 
+    text-decoration: none; 
+}
+
+a:hover{
+    text-decoration: underline; 
+}
+
+/* Color CLasses */
+.spring{
+    color: #0E94D1 ; 
+}
+
+.Summer{
+    color: #1CA848; 
+}
+
+.Autumn{
+    color: #FA6700 ;
+}
+
+.Winter {
+    color: #1C64B9 ; 
+}

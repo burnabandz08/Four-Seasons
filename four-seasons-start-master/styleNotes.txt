@@ -1,0 +1,24 @@
+STYLE NOTES FOR VIVALDI FOUR SEASONS EXAMPLE
+
+LAYOUT
+Use a Centered Fixed Width body.  
+800px content width with a 150px padding on left and right, 10px padding on top, 60px padding on bottom
+
+FONTS
+Main Heading uses "Dancing Script" from Google Fonts and a font size of 52px
+Paragraph and list items use "Helvetica" and a letter spacing of 0.5px and a line height of 22px
+Small reference paragraph is 12px and italics
+
+COLORS
+Page background color is #990100
+Body background color is white
+Link color is #990100 and bold
+List items use matching seasonal colors from the main image
+
+IMAGES
+Main image is 800px x 471px
+
+LINKS
+Each link should open in a new tab.  Add an underline to each link on hover.
+- Wikipedia: "https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)"
+- Mantua: "https://en.wikipedia.org/wiki/Mantua"
